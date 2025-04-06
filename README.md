@@ -1,29 +1,26 @@
-# rock-paper-scissors
+# 🪨 Jogo Pedra, Papel e Tesoura - Vue.js 🎮
 
-## Project setup
-```
-yarn install
-```
+Este é um projeto simples e divertido desenvolvido com **Vue.js**, onde o jogador pode desafiar o computador em um clássico jogo de Pedra, Papel e Tesoura.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 🚀 Tecnologias utilizadas
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- [Vue.js](https://vuejs.org/) - Framework JavaScript progressivo
+- HTML5 + CSS3
+- JavaScript moderno (ES6+)
 
-### Run your unit tests
-```
-yarn test:unit
-```
+## 🎯 Funcionalidades
 
-### Lints and fixes files
-```
-yarn lint
-```
+- Interface amigável e responsiva
+- Lógica de jogo simples e intuitiva
+- Contador de vitórias e derrotas
+- Resultado automático da rodada
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 🧠 Aprendizados
+
+Este projeto foi criado como parte de um bootcamp prático, com foco em:
+
+- Prática com componentes Vue.js
+- Gerenciamento de estado simples
+- Manipulação de eventos no DOM com Vue
+- Estilização básica para jogos web
+
